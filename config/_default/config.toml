@@ -1,7 +1,7 @@
 baseURL = "https://jeessy2.github.com"
 title = "jeessy - A java&go developer"
 theme = "zzo"
-
+publishDir = "docs"
 
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
