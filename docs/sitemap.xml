@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/knative-serving/</loc>
+    <loc>https://jeessy2.github.com/knative-serving/</loc>
     <lastmod>2020-12-28T08:47:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jeessy2.github.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jeessy2.github.com/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://jeessy2.github.com/series/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jeessy2.github.com/tags/</loc>
   </url>
   
 </urlset>

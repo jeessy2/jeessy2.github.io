@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>jeessy - A java&amp;go developer</title>
-    <link>http://example.org/</link>
+    <link>https://jeessy2.github.com/</link>
     <description>Recent content on jeessy - A java&amp;go developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jeessy2.github.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -42,11 +42,11 @@
       
       <item>
         <title>knative-serving初探</title>
-        <link>http://example.org/knative-serving/</link>
+        <link>https://jeessy2.github.com/knative-serving/</link>
         <pubDate>Mon, 28 Dec 2020 08:47:11 +0800</pubDate>
         
         <atom:modified>Mon, 28 Dec 2020 08:47:11 +0800</atom:modified>
-        <guid>http://example.org/knative-serving/</guid>
+        <guid>https://jeessy2.github.com/knative-serving/</guid>
         <description>介绍 knative是流行的serverless框架，目前参与的公司主要是 Google、Pivotal、IBM、Red Hat，目前迭代很快 knative 是</description>
         
         <dc:creator>jeessy</dc:creator>

@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on jeessy - A java&amp;go developer</title>
-    <link>http://example.org/series/</link>
+    <link>https://jeessy2.github.com/series/</link>
     <description>Recent content in Series on jeessy - A java&amp;go developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jeessy2.github.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
