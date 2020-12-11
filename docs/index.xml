@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>jeessy - A java&amp;go developer</title>
+    <link>http://example.org/</link>
+    <description>Recent content on jeessy - A java&amp;go developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>knative-serving初探</title>
+        <link>http://example.org/knative-serving/</link>
+        <pubDate>Mon, 28 Dec 2020 08:47:11 +0800</pubDate>
+        
+        <atom:modified>Mon, 28 Dec 2020 08:47:11 +0800</atom:modified>
+        <guid>http://example.org/knative-serving/</guid>
+        <description>介绍 knative是流行的serverless框架，目前参与的公司主要是 Google、Pivotal、IBM、Red Hat，目前迭代很快 knative 是</description>
+        
+        <dc:creator>jeessy</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
